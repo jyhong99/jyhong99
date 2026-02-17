@@ -93,11 +93,6 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (I
 ## Links
 
 GitHub:  
-https://github.com/jyhong99 Surrogate Modeling using ML
+https://github.com/jyhong99
 
 ---
-
-## Links
-
-GitHub Projects:
-https://github.com/jyhong99
