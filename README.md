@@ -48,10 +48,8 @@ Tech stack:
 
 - Python  
 - PyTorch  
-- ngspice  
-- Ray (parallel simulation)  
-- NumPy / Pandas  
-- Linux  
+- NGSPICE
+- NumPy / Pandas / Ray
 
 (Repository will be publicly available soon)
 
@@ -70,14 +68,12 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (I
 
 - Python (advanced)
 - PyTorch
-- NumPy / Pandas
-- Ray
-- Linux
+- NumPy / Pandas / Ray
 
 ### Circuit / EDA
 
 - Analog Circuit Design
-- SPICE / ngspice
+- NGSPICE
 - Circuit Sizing Optimization
 - SPICE Automation
 
